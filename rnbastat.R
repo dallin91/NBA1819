@@ -4,7 +4,7 @@
 # Created: 23 April 2019 #
 ##########################
 
-setwd("C:/Users/dirk2/Programming/Github/NBA1819")
+setwd("~/Documents/Github/NBA1819")
 
 library(readr)
 NBA <- read_csv("1819stats.csv")
